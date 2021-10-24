@@ -258,7 +258,7 @@ int main(){
 					}
 				}
 		else{
-			cout<<"Non sei adatto."
+			cout<<"Non sei adatto."<<endl;
 		}
 	return 0;		
 }
