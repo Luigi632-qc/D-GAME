@@ -18,7 +18,7 @@ int main(){
 						cout<<"Game n°0"<<endl;
 						cout<<"Nome del game : the fool"<<endl;
 						cout<<"Regole : siete una squadra, ogni partecipante dovrà collaborare per decodificare la propria parte di messaggio."<<endl;
-						cout<<"DECODIFICA : USARE CODIFICA SEMPLICE."
+						cout<<"DECODIFICA : USARE CODIFICA SEMPLICE."<<endl;
 					}
 					if (game==1)
 					{
@@ -49,7 +49,7 @@ int main(){
 						cout<<"L'imperatrice dovrà amministrare i soldi in modo tale da creare 3 classi iniziali."<<endl;
 						cout<<"I soldi iniziali saranno 200."<<endl;
 						cout<<"Le classi sono quella povera da 0 a 40, quella benestante da 50 a 60 e quella ricca da 70 a 100."<<endl;
-						cout<<"Creare almeno 2 poveri, 2 benestanti e 2 ricchi."
+						cout<<"Creare almeno 2 poveri, 2 benestanti e 2 ricchi."<<endl;
 						cout<<"Se restano dei soldi quelli andranno all'imperatrice."<<endl;
 						cout<<"L'imperatrice dovrà trasferire i soldi dei giocatori tra di loro in modo da rendere poveri i ricchi e viceversa."<<endl;
 						cout<<"Il denaro dell'imperatrice non potrà essere usato."<<endl;
@@ -243,7 +243,7 @@ int main(){
 						cout<<"Nome del game : the judgement"<<endl;
 						cout<<"Regole del game : il giudizio si sta abbattendo su di voi."<<endl;
 						cout<<"Il giudice vi sottoporrà a 10 quesiti di cui dovrete trovare la risposta entro 2 ore."<<endl;
-						cout<"Se non riuscirete a dare una risposta a tutti e 10 i quesiti sarà game over."<<endl;
+						cout<<"Se non riuscirete a dare una risposta a tutti e 10 i quesiti sarà game over."<<endl;
 					}
 					if (game==21)
 					{
